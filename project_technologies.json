@@ -10,8 +10,6 @@
         ],
         "toolkits": [
             "webgl",
-            "threejs",
-            "nodejs",
             "c++"
         ],
         "languages": [
