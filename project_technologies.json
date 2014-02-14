@@ -10,7 +10,8 @@
         ],
         "toolkits": [
             "webgl",
-            "c++"
+            "c++",
+            "nodejs"
         ],
         "languages": [
             "javascript",
