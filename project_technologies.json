@@ -11,7 +11,8 @@
         "toolkits": [
             "webgl",
             "c++",
-            "nodejs"
+            "nodejs",
+            "threejs"
         ],
         "languages": [
             "javascript",
