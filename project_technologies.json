@@ -5,7 +5,8 @@
             "shell"
         ],
         "platforms": [
-            "web"
+            "web",
+            "processing"
         ],
         "toolkits": [
             "webgl",
