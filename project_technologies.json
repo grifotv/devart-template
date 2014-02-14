@@ -1,16 +1,27 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "google plus"
         ],
         "platforms": [
-            "insert platforms"
+            "web"
         ],
         "toolkits": [
-            "insert toolkits"
+            "webgl",
+            "threejs",
+            "nodejs"
+        ],
+        "languages": [
+            "javascript",
+            "glsl"
         ]
     },
     "themes": [
-        "insert themes"
+        "Particles",
+        "Game",
+        "Competition",
+        "Play",
+        "Sound",
+        "Human Condition"
     ]
 }
