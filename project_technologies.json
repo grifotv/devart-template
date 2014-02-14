@@ -1,18 +1,15 @@
 {
     "technologies": {
         "apis": [
-            "google plus",
-            "shell"
+            "google plus"
         ],
         "platforms": [
-            "web",
-            "processing"
+            "web"
         ],
         "toolkits": [
             "webgl",
-            "c++",
-            "nodejs",
-            "threejs"
+            "threejs",
+            "nodejs"
         ],
         "languages": [
             "javascript",
