@@ -18,6 +18,16 @@
 
 Insert the name of your project
 
+## Example Code
+NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
+```
+//	GAE lat long
+echo $_SERVER['HTTP_X_APPENGINE_CITYLATLONG'] . '<br>';
+//	Incoming GOMA user's IP
+echo $_SERVER['REMOTE_ADDR'] . '<br>';
+```
+
+
 # Xroject Title
 
 ## Xroject Title 2
