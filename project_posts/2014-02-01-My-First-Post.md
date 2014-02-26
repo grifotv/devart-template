@@ -1,5 +1,2 @@
-Insert a description to describe your update to document your creative process. The Commissioned Interactive Artists will be doing the same so you can reference their Project Posts.
-
-![Example Image](../project_images/cover.jpg?raw=true "Example Image")
-
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+#How to render many unique butterflies
+![schema](../project_images/texture.jpg "Schema how to do the rendering")
